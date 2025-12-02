@@ -1,0 +1,14 @@
+{
+    "name": "visual-test-puppeteer-percy",
+    "version": "1.0.0",
+    "scripts": {
+        "test": "node test.js"
+    },
+    "dependencies": {
+        "puppeteer": "^23.0.0"
+    },
+    "devDependencies": {
+        "@percy/cli": "^1.31.4",
+        "@percy/puppeteer": "^2.0.2"
+    }
+}
